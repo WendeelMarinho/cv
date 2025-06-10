@@ -1,144 +1,181 @@
-<!-- README estilizado para GitHub com todas as informações completas do currículo de Wendeel Marinho -->
+<!-- README.md - Currículo Completo de Wendeel Marinho com todas as informações das 9 páginas -->
 
-<style>
-  .cv h2 {
-    color: #0969da;
-  }
-  .cv ul {
-    padding-left: 1.4rem;
-  }
-  .cv code {
-    background: #f6f8fa;
-    padding: 0.2em 0.4em;
-    border-radius: 4px;
-  }
-</style>
-
-<div class="cv">
-
-# Wendeel Marinho
-
-**Desenvolvedor Fullstack Sênior**  
-Especialista em PHP, Node.js e Sistemas Escaláveis | IA, DevOps & Data Analytics  
-📍 São Paulo, SP, Brasil  
-📞 11911242062  
-✉️ wendeelmarinho@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/wendeelm) • [Site Pessoal](https://bit.ly/wendeelm)
+<h1 align="center">Wendeel Marinho</h1>
+<p align="center"><strong>Desenvolvedor Fullstack Sênior</strong><br>Especialista em PHP, Node.js e Sistemas Escaláveis | IA, DevOps & Data Analytics<br>📍 São Paulo, SP, Brasil</p>
+<p align="center">📞 11911242062 | ✉️ wendeelmarinho@gmail.com<br>🔗 <a href="https://www.linkedin.com/in/wendeelm">LinkedIn</a> • 🌐 <a href="https://bit.ly/wendeelm">Site Pessoal</a></p>
 
 ---
 
-## 🧠 Resumo Profissional
-Desenvolvedor Fullstack Sênior com mais de 10 anos de experiência no desenvolvimento e arquitetura de sistemas distribuídos, com foco em performance, escalabilidade e manutenção. Sólida atuação com PHP (Laravel, Lumen), Node.js (NestJS, Express), Python (Django, FastAPI) e frontend com Vue.js, React e Flutter.
+## 🧩 Principais Competências
 
-Experiência robusta em APIs RESTful e GraphQL, bancos relacionais e NoSQL, mensageria (RabbitMQ, Kafka) e práticas DevOps com CI/CD, Docker, AWS, monitoramento e logging. Especialista em plataformas SaaS, marketplace, IA, NLP e automações com LLMs.
+### Liderança Técnica & Arquitetura
+- Tech Leadership e mentoria de equipes
+- Arquitetura de sistemas distribuídos e microsserviços
+- Code Review e definição de padrões de desenvolvimento
+- Gestão técnica de roadmaps e priorização
 
----
+### Backend Development
+- PHP (Laravel, Lumen, Symfony, CodeIgniter)
+- Node.js (NestJS, Express.js, Fastify)
+- Python (Django, FastAPI, Flask)
+- APIs RESTful, GraphQL, WebSockets
+- Microserviços e serverless
 
-## 🛠 Expertise
+### Frontend Development
+- React.js com TypeScript
+- Vue.js (Vue 2/3, Nuxt.js)
+- JavaScript/ES6+ e TypeScript
+- HTML5, CSS3, SCSS, TailwindCSS
+- Flutter/Dart para mobile
 
-- **Linguagens:** PHP, JavaScript/TypeScript, Python, Dart
-- **Frameworks:** Laravel, NestJS, Express, FastAPI, Flutter
-- **Frontend:** Vue.js, React, HTML5/CSS3, TailwindCSS
-- **Bancos de Dados:** MySQL, PostgreSQL, MongoDB, Redis
-- **DevOps & Cloud:** Docker, Git, CI/CD, AWS (EC2, S3, RDS, SES), Firebase, Vercel
-- **Mensageria:** RabbitMQ, Kafka
-- **Integrações:** Stripe, PayPal, Mercado Pago, WhatsApp API, Salesforce, iFood API
-- **Infra & Deploy:** EC2, VPS, Nginx, Laravel Forge, DigitalOcean
-- **Automação & IA:** GPT-4 API, NLP, agentes LLMs
-- **Ferramentas:** Postman, Insomnia, Figma, Trello, Notion, Swagger, Firebase
+### Banco de Dados & Storage
+- MySQL, PostgreSQL
+- MongoDB, Redis
+- Elasticsearch
+- Migrations, indexação, query optimization
 
----
+### DevOps & Cloud
+- Docker, Kubernetes
+- AWS (EC2, S3, RDS, Lambda, SES, CloudWatch)
+- CI/CD (GitLab CI, GitHub Actions, Jenkins)
+- Nginx, Apache
+- Sentry, ELK Stack, Prometheus
 
-## 👨‍💼 Experiência Profissional
+### Inteligência Artificial & Dados
+- OpenAI API e LLMs
+- Machine Learning com Python
+- Visualização e análise de dados
+- Automação com NLP e agentes inteligentes
 
-### **Seara (JBS)** — *Tech Lead*  
-📍 São Paulo | 📅 Nov/2024 – Mai/2025
+### Integrações & APIs
+- Stripe, PayPal, Mercado Pago
+- WhatsApp Business API
+- Salesforce, iFood API
+- REST, SOAP, webhooks
+- FTP, SFTP
 
-**Projeto Principal:** Plataforma Seara CMI (Content Management Intelligence) com IA embarcada.
-
-#### Competências
-- Liderança de 6 equipes de desenvolvimento
-- Arquitetura de software moderna e microserviços
-- Desenvolvimento PHP (Laravel, Lumen, Symfony, CodeIgniter)
-- Frontend com React + TypeScript
-- Otimizações, integrações, caching, GraphQL e REST
-
-#### Conquistas
-- Redução de 60% na gestão de conteúdo
-- Deploys reduzidos de 2h → 15min
-- Performance aprimorada em 45%
-- Onboarding reduzido de 2 semanas → 3 dias
-- 80% dos processos categorizados via IA
-
----
-
-### **WAY.AG** — *Desenvolvedor Fullstack Sênior*  
-📍 São Paulo | 📅 Dez/2023 – Presente
-
-- APIs REST e GraphQL, frontend responsivo
-- Dashboards, automações com IA, ML para classificação
-- Pipelines CI/CD, integração fullstack
-
----
-
-### **Brightdome** — *Desenvolvedor Back End*  
-📅 Jan/2023 – Abr/2025
-
-- Backend com Node.js e Python
-- Microsserviços, Serverless, segurança (JWT, OAuth)
-- Monitoramento, CI/CD, integração com terceiros
+### Metodologias & Práticas
+- Clean Code, SOLID, DDD
+- TDD, BDD
+- Scrum, Kanban
+- Git Flow
+- Swagger, OpenAPI
 
 ---
 
-### **W Center** — *Desenvolvedor Web*  
-📍 São Paulo | 📅 Jan/2021 – Dez/2022
+## 📋 Resumo Profissional
 
-- Aplicativo de fidelidade
-- Integração com ERP
-- Automatização de relatórios, suporte técnico
+Desenvolvedor Fullstack Sênior com mais de 10 anos de experiência em desenvolvimento de sistemas distribuídos com foco em escalabilidade, manutenção e performance. Domínio em tecnologias backend e frontend, integrações, banco de dados, DevOps, mensageria e inteligência artificial. Participação ativa em reestruturação de sistemas legados, arquitetura moderna, automações e soluções orientadas a dados.
 
 ---
 
-### **Innovativa Tecnologia** — *Desenvolvedor Fullstack*  
-📍 Manaus | 📅 Jun/2017 – Dez/2022
+## 💼 Experiência Profissional
 
-- Projetos fullstack completos, alta performance
-- Integrações, deploy em nuvem (AWS, GCP, Azure)
-- Monitoramento, segurança, times ágeis
+### **Seara (JBS)** — Tech Lead (Jan/2024 – Dez/2025)
+São Paulo, Brasil
+
+#### Principais Competências:
+- Liderança técnica de equipes distribuídas para 6 clientes
+- Arquitetura moderna (Laravel, microserviços)
+- APIs RESTful e GraphQL, cache (Redis), performance
+- Interfaces modernas com React e TypeScript
+
+#### Projeto Principal — Seara CMI:
+- Plataforma de centralização de arquivos com IA integrada
+- Categorização automática de conteúdo com IA
+- Multitenancy, dashboard analítico, permissões granulares
+
+#### Conquistas:
+- Redução de 60% no tempo de gestão de conteúdo
+- Migração de legado com performance +45%
+- CI/CD: deploy de 2h para 15min
+- Onboarding reduzido para 3 dias
+- Integração de IA automatizou 80% dos processos
+
+---
+
+### **WAY.AG** — Desenvolvedor Fullstack Sênior (Dez/2023 – Presente)
+São Paulo
+
+#### Competências:
+- Backend: APIs REST/GraphQL, bancos relacionais/NoSQL
+- Frontend: interfaces responsivas, performance no cliente
+- IA/ML: modelos preditivos, agentes IA
+- Data Analytics: dashboards e relatórios interativos
+- DevOps: pipelines CI/CD, deploy em nuvem
+
+#### Responsabilidades:
+- Desenvolvimento de sistemas sob demanda
+- Aplicações com IA e dashboards analíticos
+- Alinhamento com equipe técnica e produto
+
+---
+
+### **Brightdome** — Desenvolvedor de Back End (Jan/2023 – Abr/2025)
+
+- Node.js e Python com arquitetura escalável
+- Microsserviços e serverless
+- Autenticação (OAuth, JWT), segurança contra XSS e SQLi
+- CI/CD, AWS, Azure, GCP
+- Integrações, APIs REST/GraphQL
+
+---
+
+### **W Center** — Desenvolvedor Web (Jan/2021 – Dez/2022)
+São Paulo, Brasil
+
+- App de fidelidade: pontos, recompensas, notificações
+- ERP, automação de relatórios e processos
+- Integrações e suporte técnico multiárea
+
+---
+
+### **Innovativa Tecnologia** — Desenvolvedor Fullstack (Jun/2017 – Dez/2022)
+Manaus, Amazonas
+
+#### Competências:
+- APIs REST/GraphQL, banco relacional/NoSQL
+- Sistemas escaláveis, autenticação, segurança
+- Frontend dinâmico e responsivo
+- CI/CD, Docker, Kubernetes, cloud deploy
+- Monitoramento e melhoria contínua
+
+#### Responsabilidades:
+- Projetos fullstack ponta-a-ponta
+- Alinhamento com equipes e stakeholders
+- Resolução de problemas complexos
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-- **UniNorte** — Análise e Desenvolvimento de Sistemas (2018)
-- **Alura** — Ciência de Dados (Dez/24 – Mai/25)
-- **DSA** — Python para Data Science 4.0 (Dez/24 – Mai/25)
-- **Codar.me** — APIs com Django (Set/24 – Dez/24)
-- **ProgramadorBr** — Dev Web Fullstack (2022)
+- **UniNorte** — Análise e Desenvolvimento de Sistemas (Jan/2018)
+- **Alura** — Ciência de Dados (Dez/2024 – Mai/2025)
+- **Data Science Academy** — Python para Data Science 4.0 (Dez/2024 – Mai/2025)
+- **Codar.me** — APIs com Django (Set/2024 – Dez/2024)
+- **ProgramadorBr** — DEV WEB FULL STACK (Jan/2022 – Set/2022)
 
 ---
 
-## 📜 Certificações e Cursos
+## 📜 Cursos e Certificações
 
-### **Alura**
-- Arquitetura com JS/Node.js (DDD, SOLID, TDD, Clean Architecture)
-- Java com Spring Boot 3: APIs REST (Mar–Abr/2025)
-- Angular + TypeScript (Mar–Abr/2025)
+### Alura
+- Arquitetura com JS/Node.js (Jan–Mar/2024)
+- Spring Boot 3 – APIs REST (Mar–Abr/2025)
+- Angular com TypeScript (Mar–Abr/2025)
 
-### **Udemy**
-- Kafka para Backend (Producers, Consumers, Microserviços)
-- Docker e Kubernetes (CI/CD, Helm, Secrets, Volumes)
+### Udemy
+- Kafka para Backend (Producers, consumers, tópicos, microserviços)
+- Docker e Kubernetes (Mai–Jun/2024) – CI/CD, Helm, secrets, volumes
 
-### **Coursera (DeepLearning.ai - Andrew Ng)**
-- Machine Learning para Devs (Out/2023)
+### Coursera (DeepLearning.ai – Andrew Ng)
+- Machine Learning para Devs (Out/2023) – Regressão, tuning, redes neurais
 
-### **AWS**
-- AWS Cloud Practitioner Essentials (Abr/2024)
+### AWS
+- AWS Cloud Practitioner Essentials (Abr/2024) – EC2, S3, Lambda, RDS, segurança
 
 ---
 
-## 🧩 Competências Técnicas Relevantes
+## 🧠 Competências Técnicas Destacadas
 
-Postman API, CSS, DDD, SOLID, TDD, Clean Architecture, Docker, Kubernetes, Machine Learning, AWS Cloud Services
-
-</div>
+Postman API • CSS • DDD • SOLID • TDD • Clean Architecture • Docker • Kubernetes • Machine Learning • AWS Cloud Services
