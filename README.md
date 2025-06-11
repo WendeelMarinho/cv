@@ -71,7 +71,7 @@ Desenvolvedor Fullstack Sênior com mais de 10 anos de experiência em desenvolv
 
 ## 💼 Experiência Profissional
 
-### **Seara (JBS)** — Tech Lead (Jan/2024 – Dez/2025)
+### **Seara (JBS)** — Tech Lead (Nov/2024 – Maio/2025)
 São Paulo, Brasil
 
 #### Principais Competências:
