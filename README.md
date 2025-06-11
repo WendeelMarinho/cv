@@ -94,7 +94,7 @@ São Paulo, Brasil
 
 ---
 
-### **WAY.AG** — Desenvolvedor Fullstack Sênior (Dez/2023 – Presente)
+### **WAY.AG** — Desenvolvedor Fullstack Sênior (Dez/2022 – Presente)
 São Paulo
 
 #### Competências:
@@ -111,7 +111,7 @@ São Paulo
 
 ---
 
-### **Brightdome** — Desenvolvedor de Back End (Jan/2023 – Abr/2025)
+### **Brightdome** — Desenvolvedor de Back End (Dez/2022 – Abr/2025)
 
 - Node.js e Python com arquitetura escalável
 - Microsserviços e serverless
@@ -121,7 +121,7 @@ São Paulo
 
 ---
 
-### **W Center** — Desenvolvedor Web (Jan/2021 – Dez/2022)
+### **W Center** — Desenvolvedor Web (Jan/2021 – Jan/2022)
 São Paulo, Brasil
 
 - App de fidelidade: pontos, recompensas, notificações
